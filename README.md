@@ -1,4 +1,4 @@
-![Header](./assets/images/completion.jpg)
+![Header](./assets/images/Wallpapers/wallpaper_02.jpg)
 
 
 # IBM Quantum Challenge 2024 Solution
@@ -37,5 +37,7 @@ pip install qiskit-transpiler-service
 |    :memo:     |   You will need an API token from IBM quantum to run on real Quantum Hardware    |
 |---------------|:----------------------------------------------------------------------------------|
 
+![Header](./assets/images/completion.jpg)
+![Header](./assets/images/IBMQC2024-Certificate.jpg)
 
-![Header](./assets/images/Wallpapers/wallpaper_02.jpg)
+
